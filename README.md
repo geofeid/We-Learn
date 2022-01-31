@@ -22,4 +22,4 @@ Bit Degree Front-end Academy Css Sprint 7 project.
   
 
 # WebSite Host
-We Learn website can be found in Azure [We Learn](https://geofeid.github.io/We-Learn/)
+We Learn website can be found in Github Pages [We Learn](https://geofeid.github.io/We-Learn/)
